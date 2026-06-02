@@ -1,0 +1,14 @@
+{
+  "name": "alpha-archive-nyx-core",
+  "version": "0.1.0",
+  "description": "Nyx Core runtime scaffold for ALPHA_ARCHIVE-NYX-CORE.",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "build": "echo \"Nothing to build: this is a lightweight Node.js runtime scaffold.\"",
+    "test": "node src/index.js"
+  },
+  "author": "Nightwood Holdings",
+  "license": "MIT"
+}
